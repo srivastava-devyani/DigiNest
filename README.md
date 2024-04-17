@@ -1,6 +1,6 @@
 # DigiNest Creative Studio
 
-Overview
+##Overview
 For my final project in the WBS Marketing Analytics Course, I developed DigiNest Creative Studio.  This intensive 3-week project allowed me to leverage the diverse skills gained throughout my bootcamp training.  DigiNest serves as a showcase of my abilities as a full-stack marketer and marketing analyst.
 
 Tools Used:
